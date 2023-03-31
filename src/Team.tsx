@@ -81,7 +81,8 @@ const Team = () => (
           </div>
           <p>
             Radiant Software Developer with aspirations for excellence and
-            ambitions for a fruitful career. Musician.
+            ambitions for a fruitful career. A machinist who redeems the noises
+            of the workplace with the pursuit of music in the free time.
           </p>
         </div>
       </div>
